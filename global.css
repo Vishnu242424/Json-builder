@@ -41,6 +41,20 @@ h1 {
 button {
   margin-top: 10px;
   align-self: flex-start;
+  background-color: #007bff;
+  color: white;
+  border: none;
+  padding: 10px 15px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  cursor: pointer;
+  border-radius: 5px;
+}
+
+button:hover {
+  background-color: #0056b3;
 }
 
 .form-group-buttons {
